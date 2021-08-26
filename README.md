@@ -8,7 +8,7 @@ Please click the "Star" button on GitHub if you find this project to be interest
 
 ## Controls
 This game uses the following controls:
-  - <W> Move up  
-  - <S> Move down  
-  - <Space> Continue  
-  - <Escape> Exit application
+  - \<W\> Move up
+  - \<S\> Move down
+  - \<Space\> Continue
+  - \<Escape\> Exit application
