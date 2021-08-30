@@ -1,6 +1,6 @@
 # Pong
 Pong clone made with Raylib.  
-Also my very first experience with Raylib! Took roughly three hours to complete.
+My very first experience with Raylib!
 
 Please click the "Star" button on GitHub if you find this project to be interesting!
 
