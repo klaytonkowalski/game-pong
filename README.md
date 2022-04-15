@@ -1,6 +1,5 @@
 # Pong
-Pong clone made with Raylib.  
-My very first experience with Raylib!
+Pong clone made with Raylib.
 
 Please click the "Star" button on GitHub if you find this project to be interesting!
 
